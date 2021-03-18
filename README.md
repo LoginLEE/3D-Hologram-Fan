@@ -1,1 +1,1 @@
-# 3D-Hologram-Fan
+# HKUST-ELEC3300-3D-Hologram-Fan
